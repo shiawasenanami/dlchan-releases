@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/shiawasenanami/dlchan-releases/releases/download/v0.1.0/DL-chan.Setup.0.1.0.exe",
-  "notes": "เวอร์ชันแรก: รองรับดาวน์โหลดหลายท่อ, HLS (.m3u8), ส่วนขยายเบราว์เซอร์จับลิงก์วิดีโอพร้อม Referer/Cookie สำหรับลิงก์ที่โหลดตรงไม่ได้"
+  "version": "0.2.0",
+  "url": "https://github.com/shiawasenanami/dlchan-releases/releases/download/v0.2.0/DL-chan.Setup.0.2.0.exe",
+  "notes": "yt-dlp integration (YouTube/Twitter-X/TikTok/Facebook/Instagram/Vimeo/Twitch), เมนูบาร์ใช้งานได้จริง, ต่ออายุโค้ดได้ทุกเมื่อ, popup ในเบราว์เซอร์ลากย้ายตำแหน่งได้พร้อมเลือกคุณภาพ"
 }
