@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/shiawasenanami/dlchan-releases/releases/download/v0.2.0/DL-chan.Setup.0.2.0.exe",
-  "notes": "yt-dlp integration (YouTube/Twitter-X/TikTok/Facebook/Instagram/Vimeo/Twitch), เมนูบาร์ใช้งานได้จริง, ต่ออายุโค้ดได้ทุกเมื่อ, popup ในเบราว์เซอร์ลากย้ายตำแหน่งได้พร้อมเลือกคุณภาพ"
+  "version": "0.2.1",
+  "url": "https://github.com/shiawasenanami/dlchan-releases/releases/download/v0.2.1/DL-chan.Setup.0.2.1.exe",
+  "notes": "เพิ่มหมวดหมู่แบบเลือกเอง, จดจำโฟลเดอร์บันทึกต่อหมวดหมู่, และช่องคำอธิบายในหน้าต่างเพิ่มลิงก์ดาวน์โหลด"
 }
