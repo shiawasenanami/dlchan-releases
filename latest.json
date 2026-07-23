@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/shiawasenanami/dlchan-releases/releases/download/v0.2.1/DL-chan.Setup.0.2.1.exe",
-  "notes": "เพิ่มหมวดหมู่แบบเลือกเอง, จดจำโฟลเดอร์บันทึกต่อหมวดหมู่, และช่องคำอธิบายในหน้าต่างเพิ่มลิงก์ดาวน์โหลด"
+  "version": "0.2.2",
+  "url": "https://github.com/shiawasenanami/dlchan-releases/releases/download/v0.2.2/DL-chan.Setup.0.2.2.exe",
+  "notes": "เพิ่มแผงแอดมินสร้างโค้ดของขวัญฟรี (ใช้ได้เฉพาะเครื่อง dev) และลิงก์ซื้อ/ต่ออายุ license ออนไลน์"
 }
